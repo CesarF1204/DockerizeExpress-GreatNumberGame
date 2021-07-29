@@ -10,7 +10,7 @@ Dockerize Great Number Game using MySQL DB
     - Finally, to build and run your container, just right click on docker-compose.yml and click Compose Up. Just wait for the installation and downloading of dependencies and files.
 5. While waiting for the installation/downloading to finish, open your MySQL Workbench and create a new connection.
     - Give/Enter any connection name.
-    - Hostname should be on localhost/127.0.0.1
+    - Hostname should be on localhost or 127.0.0.1
     - On this repository I use port 3307. You can see and change it, just open the .yml file and you can see the port settings under the db services.
     - Username is root
     - Password is password
